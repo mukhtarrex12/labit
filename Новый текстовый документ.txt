@@ -1,0 +1,24 @@
+SIV - Просмотр системной информации V4.14 REX::mukhtar
+
+Windows 8 x64 Professional (Один пользователь)   V6.02  Build 9200    ASUS All  REX::mukhtar  Russian (0419)  Russia (7)
+Workgroup WORKGROUP         01 02:17:28  2020-02-07 00:11:53        [BIOS 3602 04/04/2018]  Mains Power      
+
+Использование памяти 47% [1]     Текущее  Свободное   Максимальное
+Системная физическая память      3.89GB     77.95MB         8.00GB
+Системный файл подкачки          6.35GB      9.04GB        15.39GB
+Файл системного кэша             4.32GB      3.57GB         5.02GB
+
+Cores 4 Chips 1  HDDs  |Y| 30°C |Y| 45°C |U|      DIMMs  |Y| NA   |Y| NA   |Y| NA
+
+Датчик Nuvoton  |Y| ACPI 105°C 105°C
+
+      Процессор    FSB      8.9% Использование ЦП Темп. Power  APIC   0x01                 Intel Core Model 60 (3C) 3.40GHz
+CPU-0 1.48GHz x10  148MHz   U 3%  K 4%  D 2%  I 2% 34°C 29.41  0.0.0    x64                Семейство 6  Модель 60 (3C)  Степпинг 3  Ревизия 25
+CPU-1 6.80GHz x6   1.13GHz  U 4%  K 6%          39°C   84.00   0.2.0  CPUs 4 Cores 4       Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz
+CPU-2 755MHz x2    378MHz   U 3%  K 6%          36°C   14.03   0.4.0  Кэш кода L1           8-связная 64-byte   32KB 
+CPU-3 756MHz x2    378MHz   U 2%  K 2%  D 1%    32°C   14.03   0.6.0  Кэш данных L1         8-связная 64-byte   32KB
+      Память       GPU      1.0% Использование ГП                     Единый кэш L2 (2)     8-связная 64-byte  256KB
+GPU-0 405MHz P8    645MHz   Activity 1%         36°C                  Единый кэш L3 (4)    12-связная 64-byte    6MB
+                                                                      [Кэш-0 Латентность]  [MMX SSE4.2 XD SMX AES]
+
+[  OK  ]  [ Copy ]  [Windows] [Machine]  [Sensors] [USB Bus] [Network] [  SPD ]   [Volumes] [ Wi-Fi]  [PCI Bus] [ About]   [ Help ]
